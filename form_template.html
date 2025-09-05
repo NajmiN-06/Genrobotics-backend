@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>{{ page_name | title }} Form</title>
+</head>
+<body>
+    <h2>Submit Your Details If Interested in {{ page_name | replace("-", " ") | title }}</h2>
+
+    <form action="/submit/{{ page_name }}" method="post">
+        <input type="text" name="full_name" placeholder="Full Name" required><br>
+        <input type="email" name="email" placeholder="Email Address" required><br>
+        <input type="text" name="organization" placeholder="Company name/Muncipality" required><br>
+        <textarea name="message" placeholder="How can we help you" required></textarea><br>
+        <button type="submit">Submit</button>
+    </form>
+</body>
+</html>
