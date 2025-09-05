@@ -7,6 +7,9 @@ This project is a backend implementation for a mobile UI of the Genrobotics webs
 - Flask
 - SQLite
 - DB Browser for SQLite
+- HTML (Jinja templates)
+- GitHub + GitHub Desktop
+- Render (Cloud Hosting)
 
 ## 🚀 Features
 - Dynamic routing for 8 service pages
@@ -49,7 +52,22 @@ flask_app/
       http://127.0.0.1:5000/ecommerce
       http://127.0.0.1:5000/ui-ux
 7  Verify submissions Open submissions.db in DB Browser for SQLite to inspect stored form data.
-           
+   
+## 🌐 Hosted Link
+Live backend: https://genrobotics-backend.onrender.com
+
+## 🚀 Available Routes
+- `/Bandicoot`
+- `/Bandicoot-Mobility`
+- `/G-Mammoth`
+- `/Wilboar`
+- `/G-Crow`
+- `/Sanitation-Infrastructure`
+- `/Confined-space-saftey`
+- `/Solution-for-unique-challenges`
+
+
  
      
+
          
