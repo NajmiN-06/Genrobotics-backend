@@ -43,15 +43,16 @@ flask_app/
 5. Run the flask app
       python app.py
 6. Visit the backend in the browser
-      http://127.0.0.1:5000/web-design
-      http://127.0.0.1:5000/seo
-      http://127.0.0.1:5000/app-development
-      http://127.0.0.1:5000/branding
-      http://127.0.0.1:5000/content-writing
-      http://127.0.0.1:5000/digital-marketing
-      http://127.0.0.1:5000/ecommerce
-      http://127.0.0.1:5000/ui-ux
-7  Verify submissions Open submissions.db in DB Browser for SQLite to inspect stored form data.
+- https://genrobotics-backend.onrender.com/Bandicoot
+- https://genrobotics-backend.onrender.com/Bandicoot-Mobility
+- https://genrobotics-backend.onrender.com/G-Mammoth
+- https://genrobotics-backend.onrender.com/Wilboar
+- https://genrobotics-backend.onrender.com/G-Crow
+- https://genrobotics-backend.onrender.com/Sanitation-Infrastructure
+- https://genrobotics-backend.onrender.com/Confined-space-saftey
+- https://genrobotics-backend.onrender.com/Solution-for-unique-challenges
+
+7.  Verify submissions Open submissions.db in DB Browser for SQLite to inspect stored form data.
    
 ## 🌐 Hosted Link
 Live backend: https://genrobotics-backend.onrender.com
@@ -71,3 +72,4 @@ Live backend: https://genrobotics-backend.onrender.com
      
 
          
+
