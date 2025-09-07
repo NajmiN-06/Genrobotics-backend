@@ -184,11 +184,21 @@ Go to https://render.com
 ## 🌐 Hosted Link
 Live backend: https://genrobotics-backend.onrender.com
 
-
+## If inorder to commit any changes in repository
+Do the changes ans save the file 
+on terminal
+  -git add .
+   git commit -m "Description of the change"
+   git push origin main
+On render dashboard click manual deploy
+Test the route
+   
+   
 
 
  
      
 
          
+
 
